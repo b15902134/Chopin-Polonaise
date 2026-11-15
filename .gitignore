@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Xcode user data and build products
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local assistant and conversation artifacts
+.agents/
+.codex/
+AGENTS.md
+*對話紀錄*
+*conversation*
+*chat-history*
+
+# Separate website repository
+landing-page/
+
+# Local temporary files
+*.tmp
+*.log
